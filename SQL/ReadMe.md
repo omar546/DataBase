@@ -1,1 +1,1 @@
-DataBase/Sql
+DataBase designs / SQL queries 
